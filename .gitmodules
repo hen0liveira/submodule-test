@@ -1,0 +1,4 @@
+[submodule "release"]
+	path = release
+	url = https://github.com/hen0liveira/submodule-test.git
+	branch = release
